@@ -1,0 +1,7 @@
+DOCS/Documentation.docx
+DOCS/Cover.png
+
+BACKEND/venv
+BACKEND/videos
+BACKEND/reports
+BACKEND/__pycache__/
